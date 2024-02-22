@@ -1,0 +1,33 @@
+.card_slogan{
+  text-align: center;
+  font-size: xx-large;
+  font-family:sans-serif;
+  background-color: bisque;
+  padding: 5%;
+  border-top-style: solid;
+  border-color: white;
+  border-width: 30px;
+}
+
+
+.container_ooty{
+  /* background-color: #4ac7d4; */
+  border-radius: 10px;
+
+}
+.imghover:hover{
+  transform: scale(0.9);
+
+}
+
+.heightw
+{
+  width: 100%;
+  height: 500px;
+}
+.allbuttonhover:hover{
+  color: rgb(233, 243, 243);
+}
+.iconhover:hover{
+  transform:scale(1.5);
+}
